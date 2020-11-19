@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "934018350706",
+    "firebase_url": "https://voting-app-47786.firebaseio.com",
+    "project_id": "voting-app-47786",
+    "storage_bucket": "voting-app-47786.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:934018350706:android:5522d4d3c55775808e8ceb",
+        "android_client_info": {
+          "package_name": "io.matherly.votingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "934018350706-5qalha1rps9arfaarao3iot11tuhcj7q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsx-NikH3IVfJa36h0GAoMyKIThAkj2T4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "934018350706-5qalha1rps9arfaarao3iot11tuhcj7q.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "934018350706-9ub7ndrb8jjqenc08hs73a9o4fjj3p1o.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "io.matherly.votingapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
